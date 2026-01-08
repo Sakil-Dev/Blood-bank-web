@@ -80,7 +80,9 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Developed with ❤️ to save lives.** *If you find this project useful, please consider giving it a ⭐!*
 
-5. **Screen Shoot**:*
+---
+
+## Screenshot
 
 Login Page 
 
