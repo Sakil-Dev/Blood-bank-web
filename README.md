@@ -86,30 +86,30 @@ Login Page
 
 <img width="1910" height="902" alt="login" src="https://github.com/user-attachments/assets/a779b279-1657-4a56-8a5b-db79fc2aa224" />
  
-*Registration Page
+Registration Page
  
 <img width="1911" height="900" alt="Register" src="https://github.com/user-attachments/assets/34c274bb-a3a1-4f85-beea-fefdaace9602" />
  
-*Dashboard Page
+Dashboard Page
  
 <img width="1919" height="907" alt="dashboard" src="https://github.com/user-attachments/assets/ac2b8b38-4dc1-4be8-8028-72cd327ccb30" />
 
-*Donor
+Donor
  
 <img width="1912" height="903" alt="donor" src="https://github.com/user-attachments/assets/4fe8a88a-c69e-4296-a782-2f2d6805a569" />
 
-*List od donations
+List of donations
  
 <img width="1917" height="894" alt="donation records" src="https://github.com/user-attachments/assets/e0bd26fb-ce5d-4d22-890b-5f429938c6b8" />
 
-*Blood Request
+Blood Request
 
 <img width="1919" height="907" alt="blood request" src="https://github.com/user-attachments/assets/b4d450f8-1c28-4491-a9ad-b9458e6e15f1" />
 
-*Request History
+Request History
  
 <img width="1919" height="904" alt="request history" src="https://github.com/user-attachments/assets/6cf70480-92dd-454d-81f1-97d17c3c3f47" />
 
-*Blood Stock
+Blood Stock
 
 <img width="1915" height="914" alt="6" src="https://github.com/user-attachments/assets/a67298c9-86bd-406a-bdd1-d8dd8a9c694f" />
