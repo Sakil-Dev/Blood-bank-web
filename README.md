@@ -81,26 +81,34 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 **Developed with ❤️ to save lives.** *If you find this project useful, please consider giving it a ⭐!*
 
 5. **Screen Shoot**:
- 1.Login Page
- <img width="1910" height="902" alt="login" src="https://github.com/user-attachments/assets/a779b279-1657-4a56-8a5b-db79fc2aa224" />
+1. *Login Page
  
- 2.Registration Page
- <img width="1911" height="900" alt="Register" src="https://github.com/user-attachments/assets/34c274bb-a3a1-4f85-beea-fefdaace9602" />
+<img width="1910" height="902" alt="login" src="https://github.com/user-attachments/assets/a779b279-1657-4a56-8a5b-db79fc2aa224" />
  
- 3.Dashboard Page
- <img width="1919" height="907" alt="dashboard" src="https://github.com/user-attachments/assets/ac2b8b38-4dc1-4be8-8028-72cd327ccb30" />
+2.*Registration Page
+ 
+<img width="1911" height="900" alt="Register" src="https://github.com/user-attachments/assets/34c274bb-a3a1-4f85-beea-fefdaace9602" />
+ 
+3.*Dashboard Page
+ 
+<img width="1919" height="907" alt="dashboard" src="https://github.com/user-attachments/assets/ac2b8b38-4dc1-4be8-8028-72cd327ccb30" />
 
- 4.Donor
- <img width="1912" height="903" alt="donor" src="https://github.com/user-attachments/assets/4fe8a88a-c69e-4296-a782-2f2d6805a569" />
+4.*Donor
+ 
+<img width="1912" height="903" alt="donor" src="https://github.com/user-attachments/assets/4fe8a88a-c69e-4296-a782-2f2d6805a569" />
 
- 5.List od donations
- <img width="1917" height="894" alt="donation records" src="https://github.com/user-attachments/assets/e0bd26fb-ce5d-4d22-890b-5f429938c6b8" />
+5.*List od donations
+ 
+<img width="1917" height="894" alt="donation records" src="https://github.com/user-attachments/assets/e0bd26fb-ce5d-4d22-890b-5f429938c6b8" />
 
- 6.Blood Request
- <img width="1919" height="907" alt="blood request" src="https://github.com/user-attachments/assets/b4d450f8-1c28-4491-a9ad-b9458e6e15f1" />
+6.*Blood Request
 
- 7.Request History
- <img width="1919" height="904" alt="request history" src="https://github.com/user-attachments/assets/6cf70480-92dd-454d-81f1-97d17c3c3f47" />
+<img width="1919" height="907" alt="blood request" src="https://github.com/user-attachments/assets/b4d450f8-1c28-4491-a9ad-b9458e6e15f1" />
 
-  8.Blood Stock
-  <img width="1915" height="914" alt="6" src="https://github.com/user-attachments/assets/a67298c9-86bd-406a-bdd1-d8dd8a9c694f" />
+7.*Request History
+ 
+<img width="1919" height="904" alt="request history" src="https://github.com/user-attachments/assets/6cf70480-92dd-454d-81f1-97d17c3c3f47" />
+
+8.*Blood Stock
+
+<img width="1915" height="914" alt="6" src="https://github.com/user-attachments/assets/a67298c9-86bd-406a-bdd1-d8dd8a9c694f" />
