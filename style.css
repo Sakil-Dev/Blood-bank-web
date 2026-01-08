@@ -1,0 +1,245 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    /* Main background color (Cyan) */
+    background-color: #2BE2F5; 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Login Card Container */
+.login-container {
+    /* Card background color (Slightly lighter/greener cyan) */
+    background-color: #3FF2DC;
+    width: 400px;
+    padding: 40px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Icon Styling */
+.icon-wrapper svg {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+    filter: drop-shadow(0 2px 3px rgba(0,0,0,0.2));
+}
+
+/* Headings */
+h1 {
+    color: #CC2222; /* Darker Red for text */
+    font-family: 'Georgia', serif; /* Serif font for the header */
+    font-weight: 900;
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    color: #000;
+    font-size: 0.95rem;
+    margin-bottom: 25px;
+}
+
+/* Form Elements */
+.form-group {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 5px;
+    font-size: 0.9rem;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    background-color: transparent; /* Keep background see-through */
+    border: 1px solid #FF4444; /* Red border */
+    border-radius: 4px;
+    font-size: 0.9rem;
+    outline: none;
+    color: #333;
+}
+
+/* Custom styling to ensure the Select looks like the image */
+select {
+    appearance: none; /* Remove default browser arrow */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23000000%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px top 50%;
+    background-size: 10px;
+}
+
+input::placeholder {
+    color: #444;
+}
+
+/* Login Button */
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #FF3333; /* Bright Red */
+    border: none;
+    border-radius: 6px;
+    color: #000; /* Black text */
+    font-weight: bold;
+    font-size: 1.1rem;
+    font-family: serif; /* Matches the "Welcome Back" style slightly */
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.login-btn:hover {
+    background-color: #e62e2e;
+}
+
+/* Footer Links */
+.footer-links p, .footer-links a {
+    font-size: 0.85rem;
+    color: #000;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+.forgot-pass {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.register {
+    color: #FF4444; /* Red color for "Register Here" */
+    font-weight: bold;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #2BE2F5;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-container {
+    background-color: #3FF2DC;
+    width: 450px;
+    padding: 50px 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.register-title {
+    color: #B21F1F;
+    font-size: 2.8rem;
+    font-style: italic;
+    font-weight: 900;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.subtitle {
+    font-size: 0.95rem;
+    color: #000;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.highlight-red {
+    color: #B21F1F;
+    font-weight: bold;
+}
+
+/* Icon and Input Positioning */
+.input-group {
+    position: relative;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.field-icon {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #555;
+    font-size: 0.9rem;
+}
+
+.eye-icon {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #555;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.reg-input {
+    width: 100%;
+    padding: 12px 15px 12px 35px; /* Added left padding for icon */
+    border: none;
+    border-radius: 6px;
+    background-color: #9BF7F7;
+    font-size: 0.95rem;
+    outline: none;
+    color: #333;
+}
+
+/* Specific padding for password to avoid text overlapping the eye icon */
+.input-group:last-of-type .reg-input {
+    padding-right: 35px;
+}
+
+.register-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #A51C1C;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+
+.register-btn:hover {
+    background-color: #8a1717;
+}
+
+.footer-text {
+    margin-top: 25px;
+    font-size: 0.9rem;
+    color: #000;
+}
+
+.login-link {
+    color: #B21F1F;
+    text-decoration: none;
+    font-weight: bold;
+}
